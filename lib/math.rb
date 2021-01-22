@@ -39,7 +39,10 @@ modulo(34,5)
 
 
 def square_root(num)
-
+	square_root = Math.sqrt(num)
+	p square_root
 end
+
+square_root(81)
 
 
