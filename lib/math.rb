@@ -39,9 +39,7 @@ modulo(34,5)
 
 
 def square_root(num)
-  square_root = num*num
-  p square_root
+
 end
 
-square_root(num)
 
